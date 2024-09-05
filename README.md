@@ -38,7 +38,10 @@ Este é um projeto de aplicação web usando Flask para análise de dados, e SQL
    ```bash
    python -m venv venv
    source venv/bin/activate
-No Windows: venv\Scripts\activate
+ No Windows: 
+    
+      python -m venv venv
+      venv\Scripts\activate
 
 4. Instale as dependências:
   
